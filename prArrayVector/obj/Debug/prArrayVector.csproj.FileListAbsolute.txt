@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\prArrayVector\bin\Debug\prArrayVector.exe.config
+C:\Users\User\source\repos\prArrayVector\bin\Debug\prArrayVector.exe
+C:\Users\User\source\repos\prArrayVector\bin\Debug\prArrayVector.pdb
+C:\Users\User\source\repos\prArrayVector\obj\Debug\prArrayVector.csprojAssemblyReference.cache
+C:\Users\User\source\repos\prArrayVector\obj\Debug\prArrayVector.Form1.resources
+C:\Users\User\source\repos\prArrayVector\obj\Debug\prArrayVector.FormGastosDiarios.resources
+C:\Users\User\source\repos\prArrayVector\obj\Debug\prArrayVector.Properties.Resources.resources
+C:\Users\User\source\repos\prArrayVector\obj\Debug\prArrayVector.csproj.GenerateResource.cache
+C:\Users\User\source\repos\prArrayVector\obj\Debug\prArrayVector.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\prArrayVector\obj\Debug\prArrayVector.exe
+C:\Users\User\source\repos\prArrayVector\obj\Debug\prArrayVector.pdb

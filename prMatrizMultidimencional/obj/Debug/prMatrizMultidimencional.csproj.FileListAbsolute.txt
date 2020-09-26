@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\prMatrizMultidimencional\bin\Debug\prMatrizMultidimencional.exe.config
+C:\Users\User\source\repos\prMatrizMultidimencional\bin\Debug\prMatrizMultidimencional.exe
+C:\Users\User\source\repos\prMatrizMultidimencional\bin\Debug\prMatrizMultidimencional.pdb
+C:\Users\User\source\repos\prMatrizMultidimencional\obj\Debug\prMatrizMultidimencional.csprojAssemblyReference.cache
+C:\Users\User\source\repos\prMatrizMultidimencional\obj\Debug\prMatrizMultidimencional.Form1.resources
+C:\Users\User\source\repos\prMatrizMultidimencional\obj\Debug\prMatrizMultidimencional.Properties.Resources.resources
+C:\Users\User\source\repos\prMatrizMultidimencional\obj\Debug\prMatrizMultidimencional.csproj.GenerateResource.cache
+C:\Users\User\source\repos\prMatrizMultidimencional\obj\Debug\prMatrizMultidimencional.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\prMatrizMultidimencional\obj\Debug\prMatrizMultidimencional.exe
+C:\Users\User\source\repos\prMatrizMultidimencional\obj\Debug\prMatrizMultidimencional.pdb
